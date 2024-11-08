@@ -1,2 +1,2 @@
 # phytongame
-Juego de Guardian del espacio donde deberás derrotar a las naves obreras y luego acabar con la nave madre 
+Guardian del Espacio es un juego de disparos en el que controlas a un héroe espacial que debe enfrentarse a muchos enemigos alienigenas. Usas las teclas WASD para moverte por la pantalla y ESPACIO para disparar balas que destruyen a los enemigos con un solo impacto. A medida que avanzas, los enemigos se vuelven más rápidos y el jefe final del nivel aparece para complicar las cosas. Si tocas a un enemigo, ¡el juego termina! Cada nivel es más difícil que el anterior, así que prepárate para esquivar y disparar sin piedad.
